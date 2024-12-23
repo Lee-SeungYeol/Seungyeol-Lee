@@ -8,7 +8,12 @@ I love exploring deep learning, adversarial attacks, and autonomous driving simu
 - **Frameworks**: PyTorch, TensorFlow
 
 ## 🏆 Achievements
-- 📝 Published [SCI paper](#) on adversarial defense techniques
+## 📚 논문 게재 내역 (Publications)
+
+| 제목                                                                                              | 저널              | 구분  | 게재일       |
+|---------------------------------------------------------------------------------------------------|------------------|-------|--------------|
+| [SSIM-Based Autoencoder Modeling to Defeat Adversarial Patch Attacks](#)                          | sensors (SCI)     | 게재  | 2024.10.04   |
+
 - 🎓 Completed master's thesis in deep learning
 - ## 🏆 수상 내역
 
