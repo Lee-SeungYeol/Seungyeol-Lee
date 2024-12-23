@@ -41,8 +41,8 @@ I love exploring deep learning, adversarial attacks, and autonomous driving simu
 
 ## 🔗 Links
 - [Portfolio Website](#)
-- [LinkedIn](#)
-- [Twitter](#)
+<!-- - [LinkedIn](#)
+- [Twitter](#) -->
 
 ---
-**"Learning never exhausts the mind."** - Leonardo da Vinci
+<!-- **"Learning never exhausts the mind."** - Leonardo da Vinci -->
