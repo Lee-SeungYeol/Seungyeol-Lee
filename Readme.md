@@ -13,6 +13,9 @@ I love exploring deep learning, adversarial attacks, and autonomous driving simu
 | 제목                                                                                              | 저널              | 구분  | 게재일       |
 |---------------------------------------------------------------------------------------------------|------------------ |-------|--------------|
 | [SSIM-Based Autoencoder Modeling to Defeat Adversarial Patch Attacks](#)                          | sensors (SCI)     | accept  | 2024.10.04   |
+| [Adversarial Attacks on Behavior Decisions and Countermeasures Using Dropout-Based Fake Node](#)  | WISA-2024| poster  | 2023.08.12   |
+| [고속도로 환경에서의 운전 행동 결정에 대한 적대적 공격 및 대응 시스템](#)                              | CISC-S'24  | accept  | 2023.06.07   |
+| [적대적 패치 공격에 대응하는 경쟁학습 기반의 잡음 주입 기법](#)                                         | CISC-W'23  | accept  | 2023.11.15   |
 | [적대적 회피 공격에 대응하는 안전한 자율주행 자동차 시스템](#)                                         | 정보보호학회(KCI)  | accept  | 2023.10.18   |
 | [Adversarial Patch Attack on Person Detection and Countermeasure Using Input Channel Diversification](#) | Mobised23  | accept  | 2023.10.06   |
 | [Enhancing Robustness of Self-Driving Car Regression Models through Feature Squeezing](#)          | WISA-2023        | poster  | 2023.06.29   |
