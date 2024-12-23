@@ -4,9 +4,8 @@ I'm a passionate AI developer and researcher. 🚀
 I love exploring deep learning, adversarial attacks, and autonomous driving simulation.  
 
 ## 🌟 Skills
-- **Programming Languages**: Python, C++, JavaScript
-- **Frameworks**: PyTorch, TensorFlow, FastAPI
-- **Tools**: Docker, Git, Jupyter Notebooks
+- **Programming Languages**: Python
+- **Frameworks**: PyTorch, TensorFlow
 
 ## 🏆 Achievements
 - 📝 Published [SCI paper](#) on adversarial defense techniques
