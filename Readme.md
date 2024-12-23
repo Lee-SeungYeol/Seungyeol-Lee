@@ -13,6 +13,10 @@ I love exploring deep learning, adversarial attacks, and autonomous driving simu
 | 제목                                                                                              | 저널              | 구분  | 게재일       |
 |---------------------------------------------------------------------------------------------------|------------------|-------|--------------|
 | [SSIM-Based Autoencoder Modeling to Defeat Adversarial Patch Attacks](#)                          | sensors (SCI)     | 게재  | 2024.10.04   |
+| [적대적 회피 공격에 대응하는 안전한 자율주행 자동차 시스템](#)                                         | 정보보호학회(KCI)  | 게재  | 2023.10.18   |
+| [Defense Against Adversarial Evasion Attacks on Self-Driving Car Using Image Quantization](#)      | WISA-2023        | 게재  | 2023.06.26   |
+| [자율주행 자동차에 대한 적대적 회피 공격 및 대응 시스템](#)                                            | CISC-S'23        | 게재  | 2023.06.11   |
+
 
 - 🎓 Completed master's thesis in deep learning
 - ## 🏆 수상 내역
