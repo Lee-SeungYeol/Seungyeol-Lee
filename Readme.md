@@ -7,19 +7,21 @@ I love exploring deep learning, adversarial attacks, and autonomous driving simu
 - **Programming Languages**: Python
 - **Frameworks**: PyTorch, TensorFlow
 
-## 🏆 Achievements
+
 ## 📚 논문 게재 내역 (Publications)
 
 | 제목                                                                                              | 저널              | 구분  | 게재일       |
-|---------------------------------------------------------------------------------------------------|------------------|-------|--------------|
-| [SSIM-Based Autoencoder Modeling to Defeat Adversarial Patch Attacks](#)                          | sensors (SCI)     | 게재  | 2024.10.04   |
-| [적대적 회피 공격에 대응하는 안전한 자율주행 자동차 시스템](#)                                         | 정보보호학회(KCI)  | 게재  | 2023.10.18   |
-| [Defense Against Adversarial Evasion Attacks on Self-Driving Car Using Image Quantization](#)      | WISA-2023        | 게재  | 2023.06.26   |
-| [자율주행 자동차에 대한 적대적 회피 공격 및 대응 시스템](#)                                            | CISC-S'23        | 게재  | 2023.06.11   |
+|---------------------------------------------------------------------------------------------------|------------------ |-------|--------------|
+| [SSIM-Based Autoencoder Modeling to Defeat Adversarial Patch Attacks](#)                          | sensors (SCI)     | accept  | 2024.10.04   |
+| [적대적 회피 공격에 대응하는 안전한 자율주행 자동차 시스템](#)                                         | 정보보호학회(KCI)  | accept  | 2023.10.18   |
+| [Adversarial Patch Attack on Person Detection and Countermeasure Using Input Channel Diversification](#) | Mobised23  | accept  | 2023.10.06   |
+| [Enhancing Robustness of Self-Driving Car Regression Models through Feature Squeezing](#)          | WISA-2023        | poster  | 2023.06.29   |
+| [Defense Against Adversarial Evasion Attacks on Self-Driving Car Using Image Quantization](#)      | WISA-2023        | poster  | 2023.06.26   |
+| [자율주행 자동차에 대한 적대적 회피 공격 및 대응 시스템](#)                                            | CISC-S'23        | accept  | 2023.06.11   |
 
 
 - 🎓 Completed master's thesis in deep learning
-- ## 🏆 수상 내역
+- ## 🏆 Achievements
 
 | 취득일/수상일     | 구분        | 자격/어학/수상명               | 발행처                  |
 |-------------------|-------------|-------------------------------|-------------------------|
